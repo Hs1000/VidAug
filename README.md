@@ -9,3 +9,4 @@ The Functions used in this Augmentations are as follow:
 3.Vertical Flipping
 4.Changing Background Colour
 5.Center Cropping
+6.Upsampling and Down Sampling
